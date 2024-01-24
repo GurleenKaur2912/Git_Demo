@@ -17,6 +17,7 @@ public class Git_demo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello");
+        //fetch and merge performed
         
     }
     
